@@ -67,6 +67,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abishekkhanna&theme=2077" height="180em" />
 </div>
 
+###
+# 🔥 Streaks:
+<div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abishekkhanna&theme=" alt="AbishekKhanna" /></p>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abishekkhanna&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
 
